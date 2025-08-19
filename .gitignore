@@ -1,0 +1,19 @@
+# Node
+**/node_modules/
+**/.next/
+**/.turbo/
+**/.vercel/
+**/dist/
+**/build/
+.next/
+
+# Logs
+*.log
+
+# Env
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
